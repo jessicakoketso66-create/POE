@@ -26,6 +26,7 @@ Student Name:Jessica Ralepelle
 •	 Week 10:Final accessibility audit ,SEO setup and project submission
 
 ## Sitemap
+<img width="824" height="532" alt="image" src="https://github.com/user-attachments/assets/0116b377-6db2-4c41-bedd-2bb23569d338" />
 
 
 ## References
