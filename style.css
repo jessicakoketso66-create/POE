@@ -113,7 +113,7 @@
             border-color: palevioletred;
         }
 
-        /* Hero section special styling */
+        /* Hero section */
         .hero {
             background: linear-gradient(115deg, #ffffff 0%, #fffbf5 100%);
             border-left: 6px solid pink;
@@ -132,15 +132,15 @@
             margin-top: 0.6rem;
         }
 
-        .button {
-            display: inline-block;
-            margin-top: 1.5rem;
-            padding: 0.75rem 1.5rem;
+        .btn,button {
             background: pink;
             color: black;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 30px;
+            font-size: 1rem;
             font-weight: 600;
-            border-radius: 40px;
-            text-decoration: none;
+            cursor: pointer;
             transition: all 0.25s ease;
         }
 
@@ -249,7 +249,30 @@
     font-size: 14px;
     font-family: inherit;
 }
-
+.btn,button {
+    background: palevioletred;
+    color: black;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 30px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    margin-top: 15px;
+}
+input[type="submit"]
+{
+    background: palevioletred;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 30px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
 
 .container form{
     margin:0;
