@@ -11,6 +11,7 @@ CHANGED
 FIXED
 -fixed responsiveness on smaller screens 
 -fixed image alignment issues 
+-fixed button positioning 
 
 Semantic Versioning
 Format: MAJOR.MINOR.PATCH
