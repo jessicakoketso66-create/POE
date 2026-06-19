@@ -32,3 +32,5 @@ Student Name:Jessica Ralepelle
 ## References
 -Unsplash(2026)Images on the menu ,Available at :htttp://unsplash.com (Accessed:15/04/26)
 -Pintrest(2026)Logo and hero image ,Available at : http://za.pintrest(Accessed:14/03/26)
+-Google.(n.d.).[Google Map for bakery location].Retrieved May 2026 ,from 
+https://maps.app.goo.gl/r9pRu3yDYDXTXroV8
