@@ -67,6 +67,14 @@
             showToast('Your inquiry has been submitted. We will get back to you soon!', 3);
         });
     }
+    const inquiryForm = document.getElementById('inquiry-form');
+    if (inquiryForm) {
+        inquiryForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            showToast('Your inquiry has been submitted. We will get back to you soon!', 3);
+            this.reset();
+        });
+    }
 
     // Contact (map) load
     const contact = document.getElementById('contact');

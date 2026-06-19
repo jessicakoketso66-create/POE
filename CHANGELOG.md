@@ -4,14 +4,22 @@ ADDED
 -added hover effect on buttons 
 -added spacing 
 -adding styling for navigation bar
+-added javascript to my project
+-added lightbox
+-added toastnotifications 
+
 CHANGED
 -changed webiste colours for a cleaner look
 -updated typography and font sizes
 -improved overall page layout and styling 
+-changed certain id names on html and css
+
 FIXED
 -fixed responsiveness on smaller screens 
 -fixed image alignment issues 
--fixed button positioning 
+-fixed button positioning
+-inquriy form to be responsive  
+
 
 Semantic Versioning
 Format: MAJOR.MINOR.PATCH
